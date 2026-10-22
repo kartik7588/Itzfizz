@@ -1,0 +1,8 @@
+node_modules
+dist
+.vite
+.impeccable
+.tmp-chrome
+.tmp-edge
+.tmp-video-review
+*.log
